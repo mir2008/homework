@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.img{
+    margin-top: 84px;
+    width: 1000px;
+    height: 619px;
+}
+
+.img-2{
+    margin-top: -707px;
+    margin-left: 519px;
+    width: 1000px;
+    height: 619px;
+    display: flex;
+}
+
+.img-4{
+    margin-top: -610px;
+    margin-left: 1300px;
+    display: flex;
+}
+
+.img-5{
+    margin-left: 530px;
+    margin-top: -30px;
+    position: absolute;
+    width: 130px;
+    height: 130px;
+}
+
+.img-6{
+    margin-left: 550px;
+    margin-top: 480px;
+    position: absolute;
+    width: 130px;
+    height: 130px;
+}
+
+.content{
+    position: absolute;
+    margin-left: 389px;
+    width: 1130px;
+    height: 632px;
+    margin-top: 14px;
+    background: rgba(229, 229, 56, 0.505);
+}
+
+.content img{
+    width: 1130px;
+    height: 632px;
+}
+
+.img-3{
+    margin-top: -57px;
+    width: 800px;
+    height: 703px;
+    position: absolute;
+}
+
+.logo-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -600px;
+    margin-left: 200px;
+    gap: 80px;
+}
+
+.logo-text a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.logo-img{
+    margin-left: 950px;
+    margin-top: -24px;
+}
+
+.logo-img img{
+    width: 32px;
+    height: 32px;
+    margin-left: 15px;
+}
+
+.mira{
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 970px;
+    width: 500px;
+    height: 250px;
+}
+
+.ponchik{
+    position: absolute;
+    margin-top: 470px;
+    margin-left: 950px;
+    width: 500px;
+    height: 250px;
+}
+
+.ponchik img{
+    margin-left: 40px;
+}
+
+.ponch{
+    width: 80px;
+    height: 80px;
+}
+
+.chiziq{
+    width: 65px;
+    height: 3px;
+    background-color: rgb(84, 73, 73);
+    margin-left: 1000px;
+    margin-top: 565px;
+    position: absolute;
+}
